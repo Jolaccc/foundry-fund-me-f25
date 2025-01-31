@@ -2,5 +2,9 @@
 src = "src"
 out = "out"
 libs = ["lib"]
+test = "test"
+remappings = ["@chainlink/contracts=lib/chainlink-brownie-contracts/contracts/"]
+[etherscan]
+sepolia = { key = "5HP53V5IA2BMX6Q496R8CCKNB49KG8M2SH" }
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
