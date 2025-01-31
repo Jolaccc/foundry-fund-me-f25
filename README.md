@@ -1,7 +1,5 @@
 # Foundry Fund Me F23
 
-![Foundry](https://raw.githubusercontent.com/gakonst/foundry/master/assets/foundry-logo.png)
-
 ## 📌 Overview
 Welcome to the **Foundry Fund Me F23** project! This repository contains a smart contract project built using [Foundry](https://book.getfoundry.sh/) for deploying and managing funding campaigns on Ethereum.
 
